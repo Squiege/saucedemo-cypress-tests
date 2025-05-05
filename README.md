@@ -20,4 +20,4 @@ Automated tests for the login page of [saucedemo.com](https://www.saucedemo.com/
 3. Run tests with `npx cypress open`
 
 ## Tests Running
-![Tests Running](cypress/screenshots/swag-labs-tests.gif)
+![Tests Running](cypress/screenshots/swag-labs-test.gif)
