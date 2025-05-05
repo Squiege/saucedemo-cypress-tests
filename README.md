@@ -19,5 +19,5 @@ Automated tests for the login page of [saucedemo.com](https://www.saucedemo.com/
 2. Run `npm install`  
 3. Run tests with `npx cypress open`
 
-## Screenshots (Optional)
-(Add screenshots from `cypress/screenshots` folder here if enabled)
+## Tests Running
+![Tests Running](cypress/screenshots/swag-labs-tests.gif)
